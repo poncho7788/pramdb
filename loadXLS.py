@@ -1,6 +1,6 @@
 from openpyxl import load_workbook
 from openpyxl.utils.cell import *
-import re
+
 
 
 class AssessmentXLS:
